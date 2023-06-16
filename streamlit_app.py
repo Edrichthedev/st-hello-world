@@ -1,7 +1,7 @@
 from PIL import Image 
 import requests
 import streamlit as st
-from streamlit-lottie import st_lottie
+from streamlit_lottie import st_lottie
 
 st.set_page_config(page_title="Edwich")
 
