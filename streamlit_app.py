@@ -40,8 +40,6 @@ with st.container():
             - Guard our store 
             well that casually it for now."""
         )
-with right_column:
-    st_lottie(lottie_coding, height=300, key="coding")
 
 #-----PROJECTS HAHA------
 with st.container():
